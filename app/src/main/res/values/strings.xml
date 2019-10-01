@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Country quizzz</string>
+    <string-array name="caps" >
+        <item>please select</item>
+        <item>cairo</item>
+        <item>damascus</item>
+        <item>tripoli</item>
+        <item>ws</item>
+        <item>berlin</item>
+        <item>london</item>
+        <item>tokyo</item>
+        <item>paris</item>
+        <item>dakkar</item>
+
+    </string-array>
+</resources>
